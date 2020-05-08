@@ -1,0 +1,10 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: OANotice-notice #指定服务名
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://101.37.28.44:3306/laboratory?useUnicode=true&amp;characterEncoding=UTF8
+    username: root
+    password: 109761
